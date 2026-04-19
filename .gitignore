@@ -1,0 +1,15 @@
+.idea
+.vscode
+upload
+node_modules/
+dist/
+coverage/
+*.exe
+*.db
+build
+*.db-journal
+logs
+chat-api*
+main
+*.env
+.env
